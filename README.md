@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###node-sass报错
+### node-sass报错
 Found bindings for the following environments:
-  - OS X 64-bit with Node.js 6.x
+  - OS X 64-bit with Node.js 6.x<br>
   运行npm rebuild node-sass
