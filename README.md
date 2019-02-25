@@ -1,36 +1,27 @@
 # reader
 
-## Project setup
+## 项目设置
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ### node-sass报错
 * Found bindings for the following environments:
 * -OS X 64-bit with Node.js 6.x<br>
 ```
 npm rebuild node-sass
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
