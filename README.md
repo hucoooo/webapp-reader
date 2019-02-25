@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### node-sass报错
 * Found bindings for the following environments:
-* - OS X 64-bit with Node.js 6.x<br>
+* -OS X 64-bit with Node.js 6.x<br>
 ```
 npm rebuild node-sass
 ```
